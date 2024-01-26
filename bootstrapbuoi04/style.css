@@ -1,0 +1,13 @@
+#footer{
+    background-color: lightgrey;
+    padding: 20px 0 ;
+    text-align: center;
+}
+#footer a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#cart img{
+    width: 120px;
+}
